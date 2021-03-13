@@ -20,7 +20,7 @@
             android:layout_alignParentTop="true"
             android:layout_marginStart="5dp"
             android:layout_marginTop="0dp"
-            android:backgroundTint="#E4E2E2" />
+            android:backgroundTint="#D1D0D0" />
 
     </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
 
