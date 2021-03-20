@@ -42,8 +42,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-I am not sure if I was able to do this:
-Newly created tweet should be manually inserted into the timeline and not rely on a full refresh
 
 
 ## Open-source libraries used
